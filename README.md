@@ -7,4 +7,4 @@ A number of quizes to get familiar with the Numpy library.
 Implementation of basic matrix operations, such as addition and multiplication without the standard methods included in the Numpy library.
 
 ## 03.notebooks_machine-learning-fundamentals_exercise-simple-linear-regression.ipynb
-A few exercises on Linear Regression. In these exercises a data set is created and linear regression is applied to it to find the best fit line, which describes the data set. 
+Implementation of **Linear Regression** with **Gradient Descent Algorithm**. Methods implemented in this module calculate the **Cost** of a linear function and apply the **Grandient Descent Algorithm** in order to find the line that best describes a Data Set, which can be expressed through a linear function.
