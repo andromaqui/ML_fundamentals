@@ -21,8 +21,14 @@ The purpose of logistic regression is to help classify the values of the data se
 
 In order to train our model `Gradient Descent Algorithm` is applied on the data set. After taking as input initial `theta` values, which are chosen for our data set, the gradient descent algorithm calculates the partial derivatives of the cost function including the linear hypothesis. The gradients scaled by a scalar are subtracted from the given theta values.
 
-After gradient descent is applied on the dataset and better `thetas` have been generated, the `decision boundary` and the `accuracy` of the model can be calculated:
+After gradient descent is applied on the dataset and better `thetas` have been generated, the `decision boundary` and the `accuracy` of the model can be calculated with the aid of the following methods implemented on the module:
+
+
+
 
 ` plot_decision_boundary(thetas, data_set)`
 
 ![Screenshot](decision_boundary.PNG)
+
+
+`print_accuracy(thetas, data_set)`
