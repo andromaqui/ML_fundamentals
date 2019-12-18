@@ -25,4 +25,4 @@ After gradient descent is applied on the dataset and better `thetas` have been g
 
 ` plot_decision_boundary(thetas, data_set)`
 
-![Screenshot](decision_boundary.png)
+![Screenshot](decision_boundary.PNG)
